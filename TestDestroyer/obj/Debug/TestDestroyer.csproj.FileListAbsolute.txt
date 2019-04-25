@@ -1,0 +1,13 @@
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\bin\Debug\TestDestroyer.exe.config
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\bin\Debug\TestDestroyer.exe
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\bin\Debug\TestDestroyer.pdb
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\obj\Debug\TestDestroyer.Properties.Resources.resources
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\obj\Debug\TestDestroyer.csproj.GenerateResource.cache
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\obj\Debug\TestDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\obj\Debug\TestDestroyer.exe
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\obj\Debug\TestDestroyer.pdb
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\obj\Debug\TestDestroyer.Form1.resources
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\obj\Debug\TestDestroyer.csproj.CopyComplete
+C:\Users\sanabrd1\Documents\Visual Studio 2017\Projects\TestDestroyer\TestDestroyer\obj\Debug\TestDestroyer.csprojAssemblyReference.cache
